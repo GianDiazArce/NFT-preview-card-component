@@ -13,8 +13,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [Sive site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/nftpreviewcardcomponent-KiNttvD9x)
+- Live Site URL: [Sive site URL here](https://giandiazarce.github.io/NFT-preview-card-component/)
 
 ## My process
 
